@@ -1,0 +1,23 @@
+C:\Users\leoca\source\repos\Contador de gastos\bin\Debug\net5.0\Contador de gastos.exe
+C:\Users\leoca\source\repos\Contador de gastos\bin\Debug\net5.0\Contador de gastos.deps.json
+C:\Users\leoca\source\repos\Contador de gastos\bin\Debug\net5.0\Contador de gastos.runtimeconfig.json
+C:\Users\leoca\source\repos\Contador de gastos\bin\Debug\net5.0\Contador de gastos.runtimeconfig.dev.json
+C:\Users\leoca\source\repos\Contador de gastos\bin\Debug\net5.0\Contador de gastos.dll
+C:\Users\leoca\source\repos\Contador de gastos\bin\Debug\net5.0\ref\Contador de gastos.dll
+C:\Users\leoca\source\repos\Contador de gastos\bin\Debug\net5.0\Contador de gastos.pdb
+C:\Users\leoca\source\repos\Contador de gastos\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\leoca\source\repos\Contador de gastos\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\leoca\source\repos\Contador de gastos\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\leoca\source\repos\Contador de gastos\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\leoca\source\repos\Contador de gastos\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\leoca\source\repos\Contador de gastos\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\leoca\source\repos\Contador de gastos\obj\Debug\net5.0\Contador de gastos.csproj.AssemblyReference.cache
+C:\Users\leoca\source\repos\Contador de gastos\obj\Debug\net5.0\Contador de gastos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoca\source\repos\Contador de gastos\obj\Debug\net5.0\Contador de gastos.AssemblyInfoInputs.cache
+C:\Users\leoca\source\repos\Contador de gastos\obj\Debug\net5.0\Contador de gastos.AssemblyInfo.cs
+C:\Users\leoca\source\repos\Contador de gastos\obj\Debug\net5.0\Contador de gastos.csproj.CoreCompileInputs.cache
+C:\Users\leoca\source\repos\Contador de gastos\obj\Debug\net5.0\Contador de gastos.csproj.CopyComplete
+C:\Users\leoca\source\repos\Contador de gastos\obj\Debug\net5.0\Contador de gastos.dll
+C:\Users\leoca\source\repos\Contador de gastos\obj\Debug\net5.0\ref\Contador de gastos.dll
+C:\Users\leoca\source\repos\Contador de gastos\obj\Debug\net5.0\Contador de gastos.pdb
+C:\Users\leoca\source\repos\Contador de gastos\obj\Debug\net5.0\Contador de gastos.genruntimeconfig.cache
